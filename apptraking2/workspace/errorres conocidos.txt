@@ -1,0 +1,3 @@
+la contraseña no se valida.
+al entrar sin usuario añade a la BD la ubicacion al primer usuario de la BD
+//al registrar no vuele a al index.
